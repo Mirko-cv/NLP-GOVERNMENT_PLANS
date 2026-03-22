@@ -1,9 +1,6 @@
 # NLP-GOVERNMENT_PLANS
 ##   ANÁLISIS NLP DE PLANES DE GOBIERNO — MINERÍA EN PERÚ
 
-
-Por: https://www.linkedin.com/in/mirko-smith/
-
 OBJETIVO
 --------
 Identificar y comparar la orientación temática de los planes
